@@ -1,7 +1,7 @@
 platform: iOS
 buildPlatform:
-displayName: "Check App Store Release Status"
-description: "Checks statuses of the app on App Store and TestFlight"
+displayName: "Get Approval from Submission"
+description: "Get approval for the app submission"
 marketPlace: "AppleAppStore"
 runOn: "Server"
 scheduled: true
